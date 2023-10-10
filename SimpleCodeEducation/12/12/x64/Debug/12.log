@@ -1,0 +1,3 @@
+﻿  12.cpp
+E:\Projects\C++\SimpleCodeEducation\12\12\12.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  12.vcxproj -> E:\Projects\C++\SimpleCodeEducation\12\x64\Debug\12.exe
