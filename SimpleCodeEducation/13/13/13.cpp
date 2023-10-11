@@ -37,7 +37,7 @@ int main()
 
 		case '/':
 
-			cout << "Division of " << operand1 << " and " << operand2 << " = " << (operand1 / operand2) << endl;
+			cout << "Division of " << operand1 << " and " << operand2 << " = " << ((double)operand1 / (double)operand2) << endl;
 
 		break;
 
